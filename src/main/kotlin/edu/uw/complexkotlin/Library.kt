@@ -3,11 +3,6 @@
  */
 package edu.uw.complexkotlin
 
-class Library {
-    fun someLibraryMethod(): Boolean {
-        return true
-    }
-}
 
 // write a lambda using map and fold to solve "FIZZBUZZ" for the first fifteen numbers (0..15).
 // use map() to return a list with "", "FIZZ" (for 3s) or "BUZZ" (for 5s).
